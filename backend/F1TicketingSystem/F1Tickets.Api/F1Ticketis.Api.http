@@ -1,0 +1,6 @@
+@F1Tickets.Api_HostAddress = http://localhost:5023
+
+GET {{F1Tickets.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

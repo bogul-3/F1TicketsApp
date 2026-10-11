@@ -1,0 +1,6 @@
+@F1Tickets.Reporting.Api_HostAddress = http://localhost:5221
+
+GET {{F1Tickets.Reporting.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
